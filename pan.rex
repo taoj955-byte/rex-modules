@@ -13,7 +13,7 @@
       "version": "1.2.4",
       "author": "Operit",
       "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
-      "url": "https://raw.githubusercontent.com/taoj955-byte/rex-modules/main/huajuan_4k.rex.js"
+      "url": "https://cdn.jsdelivr.net/gh/taoj955-byte/rex-modules@main/huajuan_4k.rex.js"
     },
     {
       "id": "forward.wogg.quark",
@@ -23,7 +23,7 @@
       "version": "1.2.3",
       "author": "Operit",
       "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
-      "url": "https://raw.githubusercontent.com/taoj955-byte/rex-modules/main/wogg_4k.rex.js"
+      "url": "https://cdn.jsdelivr.net/gh/taoj955-byte/rex-modules@main/wogg_4k.rex.js"
     }
   ]
 }
