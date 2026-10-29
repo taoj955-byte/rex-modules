@@ -8,9 +8,9 @@
     {
       "id": "forward.huajuan.quark",
       "title": "花卷4K · 夸克网盘",
-      "description": "Forward 专用按需加载版：采集花卷站列表/搜索/详情，仅解析夸克网盘；Cookie 持久化，自动展开剧集列表，单集播放资源通过 loadResource 按需直出4K。",
+      "description": "花卷夸克资源修正版：海报、夸克目录、MKV/MP4识别、转存任务轮询均已修复。",
       "requiredVersion": "0.0.1",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": "Operit",
       "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
       "url": "https://raw.githubusercontent.com/taoj955-byte/rex-modules/main/huajuan_4k.rex.js"
