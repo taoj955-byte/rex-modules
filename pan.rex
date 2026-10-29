@@ -8,9 +8,9 @@
     {
       "id": "forward.huajuan.quark",
       "title": "花卷4K · 夸克网盘",
-      "description": "花卷夸克资源修正版：海报、夸克目录、MKV/MP4识别、转存任务轮询均已修复。",
+      "description": "花卷夸克资源修正版：Rex 播放分发、Cookie 绑定、MKV/MP4识别、转存任务轮询已修复。",
       "requiredVersion": "0.0.1",
-      "version": "1.2.3",
+      "version": "1.2.4",
       "author": "Operit",
       "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
       "url": "https://raw.githubusercontent.com/taoj955-byte/rex-modules/main/huajuan_4k.rex.js"
@@ -18,9 +18,9 @@
     {
       "id": "forward.wogg.quark",
       "title": "玩偶4K · 夸克网盘",
-      "description": "Forward 专用按需加载版：采集玩偶站列表/搜索/详情，仅解析夸克网盘；Cookie 持久化，自动展开剧集列表，单集播放资源通过 loadResource 按需直出4K。",
+      "description": "玩偶夸克资源修正版：Rex 播放分发、Cookie 绑定、MKV/MP4识别、转存任务轮询已修复。",
       "requiredVersion": "0.0.1",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "author": "Operit",
       "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
       "url": "https://raw.githubusercontent.com/taoj955-byte/rex-modules/main/wogg_4k.rex.js"
