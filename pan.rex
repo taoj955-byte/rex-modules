@@ -1,9 +1,7 @@
 {
-  "name": "花卷与玩偶4K专线",
   "title": "花卷&玩偶",
   "description": "100%对齐夏恩原版架构：采集花卷/玩偶分类与搜索，深入夸克网盘目录展开分集，基于个人Cookie存入网盘直出4K播放流。",
   "icon": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
-  "logo": "https://raw.githubusercontent.com/Darklessing/catvod/refs/heads/main/rex/icon/luye.PNG",
   "widgets": [
     {
       "id": "forward.huajuan.quark",
